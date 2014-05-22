@@ -1,0 +1,28 @@
+{
+  "name": "generator-bower-requirejs-component",
+  "version": "0.0.0",
+  "description": "Yeoman generator",
+  "license": "MIT",
+  "main": "app/index.js",
+  "repository": "peeter-tomberg/generator-bower-requirejs-component",
+  "author": {
+    "name": "",
+    "email": "",
+    "url": "https://github.com/peeter-tomberg"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "files": [
+    "app"
+  ],
+  "keywords": [
+    "yeoman-generator", "bower", "requirejs"
+  ],
+  "dependencies": {
+    "yeoman-generator": "~0.16.0"
+  },
+  "peerDependencies": {
+    "yo": ">=1.0.0"
+  }
+}
