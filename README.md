@@ -1,5 +1,7 @@
 # generator-bower-requirejs-component
 
+[![Build Status](https://travis-ci.org/peeter-tomberg/generator-bower-requirejs-component.svg)](https://travis-ci.org/peeter-tomberg/generator-bower-requirejs-component)
+
 > [Yeoman](http://yeoman.io) generator
 
 
