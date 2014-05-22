@@ -17,10 +17,18 @@
     "app"
   ],
   "keywords": [
-    "yeoman-generator", "bower", "requirejs"
+    "yeoman-generator",
+    "bower",
+    "requirejs"
   ],
   "dependencies": {
     "yeoman-generator": "~0.16.0"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "scripts": {
+    "test": "mocha"
   },
   "peerDependencies": {
     "yo": ">=1.0.0"

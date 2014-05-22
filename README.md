@@ -20,7 +20,7 @@ $ npm install -g generator-bower-requirejs-component
 Finally, initiate the generator:
 
 ```bash
-$ yo requirejs-amd-component
+$ yo bower-requirejs-component
 ```
 
 ### Getting To Know Yeoman
